@@ -1,5 +1,7 @@
 {
-  "name": "test web",
-  "description": "test web",
+  "name": "heroku-docker-nginx",
+  "description": "A barebones nginx installation using Docker",
+  "repository": "https://github.com/M-Ahadi/pp",
+  "keywords": ["nginx", "docker", "proxy"],
   "stack": "container"
- }
+}
