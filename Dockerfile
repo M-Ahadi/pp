@@ -1,4 +1,3 @@
-FROM nginx
 From enwaiax/x-ui:latest
 
 WORKDIR /root
